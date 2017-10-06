@@ -1,0 +1,128 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     928 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.129 seconds
+Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on DeadzoneCamera
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on DisplayText
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on DisplayLifeCount
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on PhysicsObject
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on PlayerPlatformerController
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on AutoMoveCrate
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1366x768 40Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.679755 ms
+The referenced script on this Behaviour (Game Object 'FadeBlack') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.856872 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 4.134951 ms (FindLiveObjects: 0.067584 ms CreateObjectMapping: 0.035919 ms MarkObjects: 0.374787 ms  DeleteObjects: 3.655242 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.GUI.Label (Rect position, UnityEngine.Texture image) [0x00000] in <filename unknown>:0 
+  at newSlideShow.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.566198 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 576.
+Total: 7.227304 ms (FindLiveObjects: 0.113428 ms CreateObjectMapping: 0.053878 ms MarkObjects: 0.945712 ms  DeleteObjects: 6.111448 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.176351 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
+Total: 0.977378 ms (FindLiveObjects: 0.103031 ms CreateObjectMapping: 0.051988 ms MarkObjects: 0.802036 ms  DeleteObjects: 0.017486 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.147048 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
+Total: 1.056305 ms (FindLiveObjects: 0.092160 ms CreateObjectMapping: 0.052460 ms MarkObjects: 0.896560 ms  DeleteObjects: 0.014178 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.160281 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 576.
+Total: 0.941458 ms (FindLiveObjects: 0.103976 ms CreateObjectMapping: 0.052460 ms MarkObjects: 0.772260 ms  DeleteObjects: 0.010397 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.179659 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 20843.
+Total: 18.124973 ms (FindLiveObjects: 3.434056 ms CreateObjectMapping: 0.389911 ms MarkObjects: 7.419187 ms  DeleteObjects: 6.879928 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 56.049419 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 20863.
+Total: 11.490808 ms (FindLiveObjects: 3.478010 ms CreateObjectMapping: 0.329888 ms MarkObjects: 7.641791 ms  DeleteObjects: 0.039700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 52.663567 ms
+
+Unloading 210 unused Assets to reduce memory usage. Loaded Objects now: 576.
+Total: 9.755820 ms (FindLiveObjects: 0.278373 ms CreateObjectMapping: 0.075146 ms MarkObjects: 0.896560 ms  DeleteObjects: 8.504323 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4c20 -> priority: 1 
