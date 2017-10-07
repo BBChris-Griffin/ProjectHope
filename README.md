@@ -7,3 +7,5 @@ created by Unity's own developers for a tutorial.
 However, the rest of the main character's animations as well as most of the sprites of the second level were create by me.
 
 This demo was made purely to showcase the gameplay of the upcoming video game.
+
+To play, simple download the files above and run the .exe.
