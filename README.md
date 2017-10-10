@@ -9,3 +9,6 @@ However, the rest of the main character's animations as well as most of the spri
 This demo was made purely to showcase the gameplay of the upcoming video game.
 
 To play, simple download the files above and run the .exe.
+
+UPDATE!!!:
+The game can only be played on a Windows computer at the moment. I have an idea to fix this but I thought I'd go ahead and announce it.
