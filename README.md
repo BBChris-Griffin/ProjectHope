@@ -10,6 +10,4 @@ This demo was made purely to showcase the gameplay of the upcoming video game.
 
 To play, simple download the files above and run the .exe.
 
-UPDATE!!!:
-The game can only be played on a Windows computer at the moment. I have an idea to fix this but I thought I'd go ahead and announce it.
-Just to clarify, the reason for this is because Apple computers cannot run .exe files directly. With that being said, there technically is a way for Apple user to play it, but it will require more work on the user's end. You would simply have to convert the .exe to a .dmg, I believe (I cannot do that on a Windows computer). Regardless, I will aim to have the game easily accessible to Apple users soon.
+This version of the game can only be played on a Windows computer. 
