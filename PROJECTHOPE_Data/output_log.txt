@@ -17,7 +17,7 @@ Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngin
 Loading C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.882 seconds
+- Completed reload, in  0.083 seconds
 Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\BB_Waves\Desktop\PROJECTHOPE_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on DeadzoneCamera
@@ -61,38 +61,30 @@ desktop: 1366x768 40Hz; virtual: 1366x768 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.623963 ms
-The referenced script on this Behaviour (Game Object 'Cloud3') is missing!
- 
-(Filename:  Line: 1743)
-
-The referenced script on this Behaviour (Game Object 'Cloud1') is missing!
- 
-(Filename:  Line: 1743)
-
-The referenced script on this Behaviour (Game Object 'Cloud1') is missing!
- 
-(Filename:  Line: 1743)
-
-The referenced script on this Behaviour (Game Object 'Cloud2') is missing!
- 
-(Filename:  Line: 1743)
-
-The referenced script on this Behaviour (Game Object 'BackgroundGradient') is missing!
- 
-(Filename:  Line: 1743)
-
+UnloadTime: 2.662245 ms
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 19.550701 ms
+UnloadTime: 8.456516 ms
 
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 5130.
-Total: 7.546258 ms (FindLiveObjects: 0.969335 ms CreateObjectMapping: 0.216930 ms MarkObjects: 2.426410 ms  DeleteObjects: 3.931691 ms)
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 20811.
+Total: 18.798298 ms (FindLiveObjects: 3.797468 ms CreateObjectMapping: 0.483486 ms MarkObjects: 8.269834 ms  DeleteObjects: 6.245146 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 62.493061 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 20831.
+Total: 12.376393 ms (FindLiveObjects: 3.676479 ms CreateObjectMapping: 0.386127 ms MarkObjects: 8.272196 ms  DeleteObjects: 0.039227 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 70.812515 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 20831.
+Total: 12.345673 ms (FindLiveObjects: 3.628745 ms CreateObjectMapping: 0.376674 ms MarkObjects: 8.294882 ms  DeleteObjects: 0.043480 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 14.764522 ms
+UnloadTime: 49.212547 ms
 
-Unloading 286 unused Assets to reduce memory usage. Loaded Objects now: 544.
-Total: 20.094683 ms (FindLiveObjects: 0.136586 ms CreateObjectMapping: 0.069947 ms MarkObjects: 1.034083 ms  DeleteObjects: 18.852177 ms)
+Unloading 210 unused Assets to reduce memory usage. Loaded Objects now: 544.
+Total: 10.022293 ms (FindLiveObjects: 0.136586 ms CreateObjectMapping: 0.064748 ms MarkObjects: 0.928690 ms  DeleteObjects: 8.890849 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 31d8 -> priority: 1 
+  Thread -> id: 29a8 -> priority: 1 
